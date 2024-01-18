@@ -16,9 +16,11 @@ The model was trained on [Replay Attack Database](https://www.idiap.ch/en/scient
 ## Demo
 
 **Prediction On Spoofed Face Biometric Representation**
+
 ![image](https://github.com/saskia-dwi-ulfah/face-anti-spoofing-app/assets/73946560/7739bcfb-fb5e-4e34-8bf6-fe5c626aac9b)
 
 **Prediction On Real Face Biometric Representation**
+
 ![image](https://github.com/saskia-dwi-ulfah/face-anti-spoofing-app/assets/73946560/4ff7bbee-38ee-433d-ad96-81ca4143c082)
 
 
